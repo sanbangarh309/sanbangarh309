@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and PHP
 - 🌱 I’m currently working in above stacks
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me via my email: sanbangarh309@gmail.com or by phone 6239485491 ...
+- 📫 You can reach me via my email: sanbangarh309@gmail.com.
 
 <!---
 sanbangarh309/sanbangarh309 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
